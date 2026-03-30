@@ -5,11 +5,11 @@
 
 ### Por primer suibida es:
 
-  #### [x] Kitty
-  #### [x] Micro
+  #### [x]  Kitty
+  #### [x]  Micro
   
 ### Mi editor de texto en terminal y mi terminal favorita, por el momento solo son esos 2
 ### Espero con el tiempo agregar mas como 
 
-  ####[] Vscode
-  ####[] Ranger
+  #### [] Vscode
+  #### [] Ranger
