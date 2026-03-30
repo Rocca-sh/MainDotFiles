@@ -1,0 +1,7 @@
+{
+    "colorscheme": "tokionight",  
+    "lsp.server": "java=jdtls,csharp=omnisharp",
+    "lsp.autocomplete": true,
+    "lsp.diagnostics": true,
+    "lsp.messages": true
+}
